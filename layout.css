@@ -1,0 +1,47 @@
+header{background-color: yellow;
+	color: blue;
+	text-align: center;
+	border:0px solid blue;
+    font-size: 30px;
+    padding: 10px;
+    margin: 10px;
+}
+
+th, td{
+    padding: 25px
+
+}
+tr:nth-child(even){background-color:red}
+th{
+    background-color: rgb(82, 121, 20);
+    color: rgb(10, 10, 10)
+}
+#name{
+    display: inline-flex
+}
+
+    
+    }
+    tr:hover{
+        background-color: purple
+    }
+
+footer{background-color: cadetblue;
+    border: 0px solid red;
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+    text-align: center;
+    width: auto;
+    height: auto
+    color: red
+
+}
+table{ position: relative;
+    top: 5px;
+    left: 450px;
+    border-collapse: collapse;
+     width: 540px;
+     height: 500px;
+     text-align: center;
+    }

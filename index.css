@@ -1,0 +1,66 @@
+#header{
+	background-color: black;
+	color: red;
+	text-align: center;
+	border:20px #000000 solid;
+	font-size: 20px;
+	
+}
+
+}
+.list{
+	background-color: green;
+	color: white;
+	text-align: center;
+	border:20px red solid;
+	font-size: 20px;
+	margin: 20px;
+	padding: 20px;
+
+}
+#foods{
+	background-color: blue;
+	color: yellow;
+	text-align: center;
+	border:20px blue solid;
+	font-size: auto;
+	width: 500px;
+	height: auto;
+	margin: 10px;
+	padding: 10px;
+
+
+}
+#cars{
+	background-color:white;
+	color: blue;
+	text-align: center;
+	border:20px whitesmoke solid;
+	font-size: auto;
+	width: 500px;
+	height: auto;
+	margin: 10px;
+	padding: 10px;
+
+}
+#names{
+background-color: black;
+	color: white;
+	text-align: center;
+	border:20px black solid;
+	font-size: auto;
+	width: 500px;
+	height: auto;
+	margin: 10px;
+	padding: 10px;
+}
+#container{
+	background-color:aqua;
+	text-align: center;
+	border:20px black solid;
+	width: auto;
+	height: auto;
+	margin: 10px;
+	padding: 10px;
+
+}

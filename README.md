@@ -22,4 +22,4 @@ Box model to name a few, Css is used to beautify user interface of a webpage. it
 user friendly.
 There are three ways of writing Css: inline, Internal and external.
 let me not forget the query selectors
-
+I hope you now understand what css is all about now.

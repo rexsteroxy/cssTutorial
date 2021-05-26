@@ -12,3 +12,5 @@ THERE ARE THREE WAYS TO INSERT CSS TO HTML>
 <div id="header"> under the ~~HTML~~ CSS style you write 
 #header{text-align:center;color;red}.
 
+
+uncle stan
